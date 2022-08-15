@@ -1,6 +1,8 @@
 # NewsApp
 ==================================
+
 Code source for an android app that I have built during my learning of android pagination3 and Room.
+
 ## Introduction :
 ----------------
 
